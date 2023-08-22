@@ -1,0 +1,13 @@
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_8\Assesment_SQLQuery8\Assesment_SQLQuery8\bin\Debug\Assesment_SQLQuery8.exe.config
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_8\Assesment_SQLQuery8\Assesment_SQLQuery8\bin\Debug\Assesment_SQLQuery8.exe
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_8\Assesment_SQLQuery8\Assesment_SQLQuery8\bin\Debug\Assesment_SQLQuery8.pdb
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_8\Assesment_SQLQuery8\Assesment_SQLQuery8\bin\Debug\EntityFramework.dll
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_8\Assesment_SQLQuery8\Assesment_SQLQuery8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_8\Assesment_SQLQuery8\Assesment_SQLQuery8\bin\Debug\EntityFramework.xml
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_8\Assesment_SQLQuery8\Assesment_SQLQuery8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_8\Assesment_SQLQuery8\Assesment_SQLQuery8\obj\Debug\Assesment_SQLQuery8.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_8\Assesment_SQLQuery8\Assesment_SQLQuery8\obj\Debug\Assesment_SQLQuery8.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_8\Assesment_SQLQuery8\Assesment_SQLQuery8\obj\Debug\Assesment_SQLQuery8.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_8\Assesment_SQLQuery8\Assesment_SQLQuery8\obj\Debug\Assesment_SQLQuery8.csproj.CopyComplete
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_8\Assesment_SQLQuery8\Assesment_SQLQuery8\obj\Debug\Assesment_SQLQuery8.exe
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_8\Assesment_SQLQuery8\Assesment_SQLQuery8\obj\Debug\Assesment_SQLQuery8.pdb
