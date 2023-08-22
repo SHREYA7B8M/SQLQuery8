@@ -7,7 +7,7 @@
       <Diagram DiagramId="3b4ff9aac8f14e95932b147d2df0e313" Name="Diagram1">
         <EntityTypeShape EntityType="AdvancedDBModel.Employee" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="AdvancedDBModel.Order" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="AdvancedDBModel.Product" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdvancedDBModel.Product" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
